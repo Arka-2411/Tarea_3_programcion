@@ -1,3 +1,4 @@
+// Rama Feature: Carga de tareas
 // --- Referencias a los elementos del HTML ---
 const input = document.getElementById('inputTarea');
 const colPendientes = document.getElementById('listaPendientes');
